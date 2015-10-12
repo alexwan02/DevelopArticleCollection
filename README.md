@@ -10,6 +10,7 @@
 ##### Java基础
 
 1. [Java线程池架构原理和源码解析(ThreadPoolExecutor)](http://blog.csdn.net/xieyuooo/article/details/8718741)
+2. [给Android开发者的RxJava详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 #### JavaWeb
 #### Node.js
