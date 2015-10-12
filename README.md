@@ -18,7 +18,8 @@
       });
  });
 </script>
-<div id="category"></div>
+<div id="category">
+</div>
 
 # 开发技术文章
 #### Java
