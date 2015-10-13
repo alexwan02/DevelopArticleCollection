@@ -1,9 +1,9 @@
 # 开发技术文章
 ## 目录
-### [1.Java](#user-content-1-java)
+### [1.Java](#user-content-1java-1)
 ### [2.JavaWeb](#user-content-2-javaweb)
 ### [3.Node.js](#user-content-3-nodejs)
-### [4.Android](#user-content-4-android)
+### [4.Android](#user-content-4android-1)
 ### [5.DataBase](#user-content-5-database)
 ## 内容
 #### 1.Java
@@ -19,8 +19,8 @@
 ##### 3.3 Node.js 名人
 ##### 3.4 Node.js 服务器
 #### 4. Android
-##### 3.1 Android NDK 开发
+##### 4.1 Android NDK 开发
 
 1. [NDK-JNI实战教程](http://yanbober.github.io/2015/02/14/android_studio_jni_1/)
 
-#### 4. DataBase
+#### 5. DataBase
