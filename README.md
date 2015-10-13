@@ -19,4 +19,8 @@
 ##### Node.js 名人
 ##### Node.js 服务器
 #### Android
+##### Android NDK 开发
+
+1.[NDK-JNI实战教程](http://yanbober.github.io/2015/02/14/android_studio_jni_1/)
+
 #### DataBase
