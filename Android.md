@@ -9,7 +9,7 @@
 ##### 3 Android NDK 开发
 ##### 4 Android FrameWork
 
->[Facebook开源图片加载组件：Fresco]http://fresco-cn.org/
+>[Facebook开源图片加载组件：Fresco]http://fresco-cn.org
 >[Android官方培训课程中文版]http://hukai.me/android-training-course-in-chinese
 >[Android性能分析工具:Snapdragon Profiler](http://news.csdn.net/article.html?arcid=15827416&preview=1)
 >[Gradle插件用户指南(译)](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide(Translation)/#1)
