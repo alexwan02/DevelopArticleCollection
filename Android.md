@@ -9,12 +9,12 @@
 ##### 3 Android NDK 开发
 ##### 4 Android FrameWork
 
->[Facebook开源图片加载组件：Fresco]http://fresco-cn.org
->[Android官方培训课程中文版]http://hukai.me/android-training-course-in-chinese
->[Android性能分析工具:Snapdragon Profiler](http://news.csdn.net/article.html?arcid=15827416&preview=1)
->[Gradle插件用户指南(译)](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide(Translation)/#1)
->[Gradle新手自学教程合集](https://testerhome.com/topics/1867)
->[Android Studio从布局中快速高效地提取Style](http://www.jianshu.com/p/8c7ae2b653c7)
+1. [Facebook开源图片加载组件：Fresco]http://fresco-cn.org
+2. [Android官方培训课程中文版]http://hukai.me/android-training-course-in-chinese
+3. [Android性能分析工具:Snapdragon Profiler](http://news.csdn.net/article.html?arcid=15827416&preview=1)
+4. [Gradle插件用户指南(译)](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide(Translation)/#1)
+5. [Gradle新手自学教程合集](https://testerhome.com/topics/1867)
+6. [Android Studio从布局中快速高效地提取Style](http://www.jianshu.com/p/8c7ae2b653c7)
 >[Android Studio打包发布](http://m.blog.csdn.net/blog/r17171709/40860389#)
 >[Android项目中如何用好构建神器Gradle](http://www.csdn.net/article/2015-08-10/2825420/2)
 >[Android Studio移除无用资源](http://tools.android.com/tech-docs/new-build-system/resource-shrinking)
