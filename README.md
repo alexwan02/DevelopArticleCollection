@@ -21,6 +21,6 @@
 #### 4. Android
 ##### 3.1 Android NDK 开发
 
-1.[NDK-JNI实战教程](http://yanbober.github.io/2015/02/14/android_studio_jni_1/)
+1. [NDK-JNI实战教程](http://yanbober.github.io/2015/02/14/android_studio_jni_1/)
 
 #### 4. DataBase
