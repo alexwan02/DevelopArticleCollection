@@ -1,10 +1,10 @@
 # 开发技术文章
 ## 目录
-### [1.Java](#user-content-java)
-### [2.JavaWeb](#user-content-javaweb)
-### [3.Node.js](#user-content-nodejs)
-### [4.Android](#user-content-android)
-### [5.DataBase](#user-content-database)
+### [1.Java](#user-content-1-java)
+### [2.JavaWeb](#user-content-2-javaweb)
+### [3.Node.js](#user-content-3-nodejs)
+### [4.Android](#user-content-4-android)
+### [5.DataBase](#user-content-5-database)
 ## 内容
 #### 1.Java
 ##### 1.1 Java基础
