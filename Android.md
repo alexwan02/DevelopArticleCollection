@@ -51,7 +51,5 @@
 35. [Android开发之ScrollView中嵌套ListView的解决方案](http://blog.csdn.net/minimicall/article/details/40983331)
 36. [设计师利器](http://zuimeia.com/app/3252/?category=15&platform=2)
 37. [Android 你应该知道的学习资源 进阶之路贵在坚持](http://blog.csdn.net/lmj623565791/article/details/44754023)
-38. [Google浏览器插件下载工具](http://chrome-extension-downloader.com/)
-##### 工具
 39. [移动平台图像个性化技术服务](http://tusdk.com/)
 40. [Github上的国内大牛们](http://githubrank.com/)
