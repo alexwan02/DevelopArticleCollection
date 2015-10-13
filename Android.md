@@ -29,7 +29,7 @@
 18. [Android Data Binding代码实战](http://www.aswifter.com/2015/07/11/android-data-binding-example/index.html)
 19. [Android Cursor自动更新的实现和原理](http://kohoh1992.github.io/Cursor-Auto-Sync/)
 
-// 源码分析
+#####源码分析
 20. [Android Universal Image Loader 源码分析](http://codekk.com/open-source-project-analysis/detail/Android/huxian99/Android%20Universal%20Image%20Loader%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 21. [Volley 源码解析](http://www.codekk.com/open-source-project-analysis/detail/Android/grumoon/Volley%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
 22. [Codelab for Android Design Support Library](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
@@ -43,8 +43,8 @@
 30. [The Cheese Factory's Blog](http://inthecheesefactory.com/blog/en)
 31. [最受欢迎的5个Android ORM框架](http://www.codeceo.com/article/5-android-orm-framework.html)
 
-// 大神博客
-// Android 常见开发问题
+##### 国内开发者博客
+##### Android 常见开发问题
 32. [Android Studio使用心得 - 常见问题集锦](http://blog.csdn.net/codezjx/article/details/38669939)
 33. [Android实现圆角边框](http://www.cnblogs.com/flyme/archive/2012/06/20/2556259.html)
 34. [终结Android studio 加载 so库文件、jar文件 问题](http://my.oschina.net/longyuan/blog/401281)
@@ -52,6 +52,6 @@
 36. [设计师利器](http://zuimeia.com/app/3252/?category=15&platform=2)
 37. [Android 你应该知道的学习资源 进阶之路贵在坚持](http://blog.csdn.net/lmj623565791/article/details/44754023)
 38. [Google浏览器插件下载工具](http://chrome-extension-downloader.com/)
-// 工具
+##### 工具
 39. [移动平台图像个性化技术服务](http://tusdk.com/)
 40. [Github上的国内大牛们](http://githubrank.com/)
