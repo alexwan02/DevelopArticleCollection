@@ -66,12 +66,14 @@
 
 
 ###### 6.4 Android团队贡献文章
-**美团**
+***美团***
+
 1. [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
 2. [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
 3. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
 4. [Android内存泄露检测-LeakCanary中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
-**腾讯微信**
+
+***腾讯微信***
 5. [Android UI：机智的远程动态更新策略](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg%3Cmark%3E&mid=214371233&idx=1&sn=b81b17b484953c30e41a8d838ef95d8f&scene=0&key=2877d24f51fa5384a18193ad1da816a8e59f207a4394d1a960e5c92937b7ec3007124a6d487e9ad0dfb1b27f50a112fb&ascene=0&uin=MTYzMjY2MTE1&pass_ticket=tQQvZQcHar%2FRoB0sRAZGHjbf3g6v4y8YiXYrgS2j1bM%3D)
 
 
