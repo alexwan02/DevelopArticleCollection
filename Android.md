@@ -1,5 +1,10 @@
 
 #### Android 开发技术文章
+
+<div align="center">
+  <img src="http://imglf0.nosdn.127.net/img/RElTd3RUQXRXekFIc3RjdlBJT3B1SUZpanpMcW1wb0o.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0" width="100%" height="270">
+</div>
+
 ##### 1 Android基础
 1. [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese)
 14. [Android M 新的运行时权限开发者需要知道的一切](http://jijiaxin89.com/2015/08/30/Android-s-Runtime-Permission/)
