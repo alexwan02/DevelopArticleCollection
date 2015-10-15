@@ -33,8 +33,7 @@
 5. [动画系列 - ViewPager动画](http://www.lightskystreet.com/2014/12/15/viewpager-anim/)
 
 ##### 2.1.2 Android View
-文章来自From [AigeStudio](http://blog.csdn.net/aigestudio)
-
+* Android 自定义动画 - From [AigeStudio](http://blog.csdn.net/aigestudio)
 1. [自定义控件其实很简单1/12](http://blog.csdn.net/aigestudio/article/details/41212583)
 2. [自定义控件其实很简单2/12](http://blog.csdn.net/aigestudio/article/details/41316141)
 3. [自定义控件其实很简单3/12](http://blog.csdn.net/aigestudio/article/details/41447349)
@@ -45,7 +44,9 @@
 8. [自定义控件其实很简单8/12](http://blog.csdn.net/aigestudio/article/details/43378131)
 9. [自定义控件其实很简单9/12](http://blog.csdn.net/aigestudio/article/details/43907299)
 
+
 #### 2.3 Android NDK开发
+##### 2.3.1 Android NDK 实战教程
 1. [NDK-JNI实战教程（一）](http://yanbober.github.io/2015/02/14/android_studio_jni_1)
 2. [NDK-JNI实战教程（二）](http://yanbober.github.io/2015/02/16/android_studio_jni_2)
 3. [NDK-JNI实战教程（三）](http://yanbober.github.io/2015/02/25/android_studio_jni_3)
@@ -96,17 +97,17 @@
 2. [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
 3. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
 
-### 6 Android团队博客
+### 6 Android 模块设计
+1. [如果让我重新设计一款Android App](http://blog.csdn.net/ahence/article/details/47154419)
+2. [Android换肤技术总结](http://blog.zhaiyifan.cn/2015/09/10/Android%E6%8D%A2%E8%82%A4%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/index.html)
+
+### 7 Android团队博客
 1. [Google Android Developer Blog](http://android-developers.blogspot.com/)
 2. [美团开发者博客](http://tech.meituan.com/)
 3. [The Cheese Factory's Blog](http://inthecheesefactory.com/blog/en)
 4. [Github上的国内大牛们](http://githubrank.com/)
-5. [Android换肤技术总结](http://blog.zhaiyifan.cn/2015/09/10/Android%E6%8D%A2%E8%82%A4%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/index.html)
-6. [如果让我重新设计一款Android App](http://blog.csdn.net/ahence/article/details/47154419)
 
-
-##### 8 Android 常见开发问题
-
+### 8 Android 常见开发问题
 1. [Android实现圆角边框](http://www.cnblogs.com/flyme/archive/2012/06/20/2556259.html)
 2. [终结Android studio 加载 so库文件、jar文件 问题](http://my.oschina.net/longyuan/blog/401281)
 3. [Android开发之ScrollView中嵌套ListView的解决方案](http://blog.csdn.net/minimicall/article/details/40983331)
