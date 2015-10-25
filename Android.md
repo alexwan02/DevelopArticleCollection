@@ -112,3 +112,4 @@
 2. [终结Android studio 加载 so库文件、jar文件 问题](http://my.oschina.net/longyuan/blog/401281)
 3. [Android开发之ScrollView中嵌套ListView的解决方案](http://blog.csdn.net/minimicall/article/details/40983331)
 4. [设计师利器](http://zuimeia.com/app/3252/?category=15&platform=2)
+5. [Android开发经验谈-很少有人会告诉你的Android开发基本常识](http://www.jianshu.com/p/d6611c8bd45c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
