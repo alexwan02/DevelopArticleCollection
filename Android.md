@@ -96,6 +96,7 @@
 1. [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
 2. [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
 3. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
+4. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 
 ### 6 Android 模块设计
 1. [如果让我重新设计一款Android App](http://blog.csdn.net/ahence/article/details/47154419)
