@@ -11,4 +11,5 @@
 ### [4.NodeJs](https://github.com/alexwan1989/DevelopArticleCollection/blob/master/NodeJs.md)
 ### [5.Html5](https://github.com/alexwan1989/DevelopArticleCollection/blob/master/Html5.md)
 ### [6.DataBase](https://github.com/alexwan1989/DevelopArticleCollection/blob/master/DataBase.md)
+### [7.Python](https://github.com/alexwan1989/DevelopArticleCollection/blob/master/DataBase.md)
 
