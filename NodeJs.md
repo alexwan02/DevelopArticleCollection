@@ -10,6 +10,7 @@
 1. [快速搭建 Node.js 开发环境以及加速 npm](http://fengmk2.com/blog/2014/03/node-env-and-faster-npm.html)
 
 ##### NodeJs 基础入门
+
 1. [Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)
 2. [Node入门-一本全面的Node.js教程](http://www.nodebeginner.org/index-zh-cn.html)
 3. [七天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
@@ -22,7 +23,6 @@
 2. [node123-node.js中文资料导航](https://github.com/youyudehexie/node123)
 3. [A curated list of delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
 4. [Node.js Books](https://github.com/pana/node-books)
-5. [给 JavaScript 初心者的 ES2015 实战](http://gank.io/post/564151c1f1df1210001c9161)
 
 ##### NodeJs 服务器
 
