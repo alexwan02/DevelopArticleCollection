@@ -51,6 +51,8 @@
 2. [NDK-JNI实战教程（二）](http://yanbober.github.io/2015/02/16/android_studio_jni_2)
 3. [NDK-JNI实战教程（三）](http://yanbober.github.io/2015/02/25/android_studio_jni_3)
 4. [NDK-JNI实战教程（四）](http://yanbober.github.io/2015/03/04/android_studio_jni_4)
+5. [Mac下Android studio 之NDK配置教程](http://www.bubuko.com/infodetail-964992.html)
+6. [Mac下Android studio 之NDK配置教程(二)](http://www.bubuko.com/infodetail-966322.html)
 
 #### 2.4 Android FrameWork
 ##### 2.4.1 Android TouchEvent事件分发
