@@ -100,7 +100,8 @@
 3. [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
 4. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 5. [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
-
+6. [Android proguard 详解](http://blog.csdn.net/banketree/article/details/41928175)
+7. [如何根据mapping.txt还原混淆的代码](http://blog.csdn.net/oo_oo_/article/details/37651335)
 
 ### 6 Android 模块设计
 1. [如果让我重新设计一款Android App](http://blog.csdn.net/ahence/article/details/47154419)
